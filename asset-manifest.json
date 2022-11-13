@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MIS585_Assginment6/static/css/main.bf1edaee.css",
+    "main.js": "/MIS585_Assginment6/static/js/main.ebd4926d.js",
+    "static/media/cofe.jpeg": "/MIS585_Assginment6/static/media/cofe.ab3596d2cb81f885778f.jpeg",
+    "static/media/cookie.jpeg": "/MIS585_Assginment6/static/media/cookie.a906ccf6645a1918ec18.jpeg",
+    "index.html": "/MIS585_Assginment6/index.html",
+    "main.bf1edaee.css.map": "/MIS585_Assginment6/static/css/main.bf1edaee.css.map",
+    "main.ebd4926d.js.map": "/MIS585_Assginment6/static/js/main.ebd4926d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1edaee.css",
+    "static/js/main.ebd4926d.js"
+  ]
+}
