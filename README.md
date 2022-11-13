@@ -16,7 +16,7 @@ npm start
 
 ```
 # ScreenShot
-<h3>Login</h3>
+<h3>Homepage</h3>
 <img alt="Demo" src="./src/pages/assets/Homepage.png" />
-<h3>Forum</h3>
+<h3>Detailpage</h3>
 <img alt="Demo" src="./src/pages/assets/page2.png" />
